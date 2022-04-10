@@ -27,7 +27,6 @@ In the following step we used the resample() and sum() method to get the total f
   
 ### Results: 
   Overall when it comes to the Total rides, Total Drivers  and, Total Fares Urban leads the numbers to maximum compare to Suburban,while Rural standing at bottom. However, talking about the Average Fare per Ride and per Driver the Urban has the cheapest price compare to Suburban and Rural has the costliest. 
-  
-![graphical view](https://github.com/urvish7/PyBer_Analysis/tree/main/analysis)
+![graphical view](https://github.com/urvish7/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ### Summary
