@@ -8,7 +8,7 @@
   We are going to use the groupby() function to fetch the Total Rides, Total Drivers and Total Fares from the given csv file data. after that we will calculate the average fare per ride by city and average fare per driver. 
   After the calculation, the data summary table looks like: 
 
- 
+![Pyber Summary](https://github.com/urvish7/PyBer_Analysis/blob/main/Extra%20Pics/pybersummary.png)
  
  ## A multiple-line chart of total fares for each city type 
    In this Analysis we going to use the pivot() and resample() function to create multiple-line graph that shows the total fares for each week by city type.
