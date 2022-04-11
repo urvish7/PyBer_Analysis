@@ -7,7 +7,7 @@
   In this Analysis part we going to summarize the data to Total Rides, Total Drivers, Total Fares, Average Fare per Ride and, Average Fare per Driver section. 
   We are going to use the groupby() function to fetch the Total Rides, Total Drivers and Total Fares from the given csv file data. after that we will calculate the average fare per ride by city and average fare per driver. 
   After the calculation, the data summary table looks like: 
-![The PyBer Summary](https://github.com/urvish7/PyBer_Analysis/blob/main/Extra%20Pics/pybersummary1.png)
+
  
  
  ## A multiple-line chart of total fares for each city type 
