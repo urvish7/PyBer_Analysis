@@ -30,6 +30,7 @@ In the following step we used the resample() and sum() method to get the total f
 ![graphical view](https://github.com/urvish7/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ### Summary
- - Urban fare is growing in the beginning months of the year, it fluctuates more in around March and April however keeps its numbers after May there is a sudden decline in numbers.
+ - Urban fare is growing in the beginning months of the year, it fluctuates more in around March and April however keeps its numbers after May there is a sudden decline in numbers. 
  - Suburban fare leaps in the begining month of the year, however reaches maximum at the end of the February and does a sudden fall till March beginning. remains around $1000 between Mar and April after that takes a jump at the end of the April month and after May it collapes.
  - Rural does change a lot. The fare remains between $0-$500 thoughout the year. 
+ - Recommendation: All in all keep the drivers data up to date and focus on the business more in the beginning of the year. the months till may are good earning phase for the business. we have keep the stabily after may as it shows the decline in the fares so keep less drivers on the road which helps in keeping stability in business.
